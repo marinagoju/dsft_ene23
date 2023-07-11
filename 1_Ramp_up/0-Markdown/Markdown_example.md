@@ -2,4 +2,4 @@
 
 Parrafo de markdown
 
-![imagen](./error.png)
+![imagen](./img/error.png)
