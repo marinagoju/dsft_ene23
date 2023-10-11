@@ -1,2 +1,0 @@
-def imprime():
-    print("hola")
